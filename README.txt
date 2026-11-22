@@ -18,3 +18,4 @@ To open:
 
 The application is a starter project. You can use this folder for the
 Git and GitHub steps in the lab.
+New feature added to coffee shop
