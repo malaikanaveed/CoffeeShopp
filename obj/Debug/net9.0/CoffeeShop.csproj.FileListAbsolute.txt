@@ -1,0 +1,14 @@
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\bin\Debug\net9.0\CoffeeShop.exe
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\bin\Debug\net9.0\CoffeeShop.deps.json
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\bin\Debug\net9.0\CoffeeShop.runtimeconfig.json
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\bin\Debug\net9.0\CoffeeShop.dll
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\bin\Debug\net9.0\CoffeeShop.pdb
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\obj\Debug\net9.0\CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\obj\Debug\net9.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\obj\Debug\net9.0\CoffeeShop.AssemblyInfo.cs
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\obj\Debug\net9.0\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\obj\Debug\net9.0\CoffeeShop.dll
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\obj\Debug\net9.0\refint\CoffeeShop.dll
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\obj\Debug\net9.0\CoffeeShop.pdb
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\obj\Debug\net9.0\CoffeeShop.genruntimeconfig.cache
+C:\Users\Malaika\OneDrive - Higher Education Commission\Software Construction\CoffeeShop_Project\CoffeeShop\obj\Debug\net9.0\ref\CoffeeShop.dll
